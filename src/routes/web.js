@@ -1,6 +1,5 @@
 import express from "express";
 import homeController from "../controller/homeController";
-// homeController tu dat
 
 const router = express.Router();
 
