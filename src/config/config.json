@@ -5,8 +5,9 @@
     "database": "jwt",
     "host": "127.0.0.1",
     "dialect": "mysql",
-
-    "loggin": "true"
+    "define": {
+      "frezzeTableName": true
+    }
   },
 
   "test": {
